@@ -10,7 +10,6 @@ Features:
 - optional metadata removal (EXIF, text chunks, ICC profile, DPI)
 - backups of the originals (.png.bak)
 
-(ai slob)
 
 <details>
 <summary>a?</summary>
